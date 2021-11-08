@@ -1,0 +1,11 @@
+#apt-get install python3-venv #linux
+#python -m venv env #window
+#pip install flask requests Flask-SQLAlchemy pymcprotocol
+#pip install -r requirements.txt
+#python -m pip install --upgrade pip
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.25
+requests==2.26.0
+pymcprotocol==0.3.0
+flask-marshmallow==0.14.0
